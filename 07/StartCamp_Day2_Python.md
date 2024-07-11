@@ -74,7 +74,7 @@
 
 <br>
 
-## Git
+## Git 명령어
 
 ### git init
 
