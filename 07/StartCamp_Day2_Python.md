@@ -13,35 +13,35 @@
 
 ### cd
 
-- `cd` Change Directory ; Directory 변경
+- `cd` ; Change Directory ; Directory 변경
 
-  - `cd .` 현재 Directory 이동 ;아무일 없음
-  - `cd ..` 상위(부모) Directory로 이동
-  - `cd /` Root Directory로 이동
-  - `cd ~` 터미널의 기본 시작 Directory로 이동
-  - `cd <folderName>` 해당 폴더로 이동
+  - `cd .` ; 현재 Directory 이동 ;아무일 없음
+  - `cd ..` ; 상위(부모) Directory로 이동
+  - `cd /` ; Root Directory로 이동
+  - `cd ~` ; 터미널의 기본 시작 Directory로 이동
+  - `cd <folderName>` ; 해당 폴더로 이동
 
 ### ls
 
-- `ls` 해당 Directory의 폴더/파일 리스트 보기
+- `ls` ; 해당 Directory의 폴더/파일 리스트 보기
 
-  - `ls -a` 해당 Directory의 숨겨진 폴더/파일까지 리스트 보기
-  - `ls <Path>` 해당 Path의 폴더/파일 리스트 보기 ex) `ls ~/Desktop` ; Desktop의 파일/폴더 리스트 보기
+  - `ls -a` ; 해당 Directory의 숨겨진 폴더/파일까지 리스트 보기
+  - `ls <Path>` ; 해당 Path의 폴더/파일 리스트 보기 ex) `ls ~/Desktop` ; Desktop의 파일/폴더 리스트 보기
 
 ### touch
 
-- `touch <fileName>` `fileName`을 이름으로 하는 파일 생성 ; 확장자까지 작성 必
+- `touch <fileName>` ; `fileName`을 이름으로 하는 파일 생성 ; 확장자까지 작성 必
 
 ### mkdir
 
-- `mkdir <folderName>` `folderName`을 이름으로 하는 폴더 생성
+- `mkdir <folderName>` ; `folderName`을 이름으로 하는 폴더 생성
 
 ### rm
 
-- `rm <fileName>` `fileName` 파일 삭제
+- `rm <fileName>` ; `fileName` 파일 삭제
 
-  - `rm -r <folderName>` `folderName` 폴더 삭제 (`rmdir <folderName>`과 동일 기능)
-  - `rm -f <name>` `name` 강제 삭제
+  - `rm -r <folderName>` ; `folderName` 폴더 삭제 (`rmdir <folderName>`과 동일 기능)
+  - `rm -f <name>` ; `name` 강제 삭제
 
 <br>
 
@@ -97,7 +97,7 @@
 ### git add
 
 - `git add <name>, ...` ; 변경사항이 있는 파일/폴더를 Staging Area에 추가
-  - `git add .` 현재 Directory의 모든 변경내용 추가
+  - `git add .` ; 현재 Directory의 모든 변경내용 추가
   - `git add a.txt` ; a.txt파일 추가
   - `git add a.txt, /dir` ; a.txt파일과 dir폴더 추가
   - `git add *.txt` ; 확장자가 .txt인 파일 모두 추가
@@ -125,5 +125,5 @@
 ### git log
 
 - `git log` ; Git에 COMMIT한 기록 보기
-  - `git log --oneline` COMMIT기록 짧게 축약하여 보기
+  - `git log --oneline` ; COMMIT기록 짧게 축약하여 보기
   - `HEAD`는 최신의 COMMIT에 붙음
