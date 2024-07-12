@@ -87,7 +87,19 @@ Git에서 특정 파일이나 Directory를 추적하지 않도록 사용하는 �
 
 <br><br>
 
+### git leflog
+
+- HEAD가 가리켰던 모든 COMMIT 기록을 보여줌
+- `--hard` 옵션을 통해 지워진 기록도 볼 수 있음
+
 # Git Undoing
+
+### git restore
+
+Modified 상태의 파일 되돌리기
+<br>-> Working Directory에서 파일을 수정한 뒤 파일의 수정 사항을 취소하고 원래 모습대로 되돌리는 작업
+
+- `--staged` 옵션 사용시 Staging Area에 올라간 파일을 Working Directory에 되돌릴 수 있음 (Git에 COMMIT 된 경우)
 
 <br><br>
 
