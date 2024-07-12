@@ -26,8 +26,8 @@
 
   - `error:failed to push some refs to` 에러 발생 시 pull 작업 후 다시 push 또는 강제 덮어쓰기
     <br>-> 원격 저장소에 로컬에 없는 파일이 있을 때(Local의 COMMIT history가 Repo의 COMMIT history보다 뒤쳐져 있을 때) push 할 경우 발생
-  - COMMIT 이력이 없으면 push 불가
   - `git push -f <Nickname> <branch_Name>` ; 원격 저장소의 내용을 로컬 저장소에 강제로 덮어쓰기
+  - COMMIT 이력이 없으면 push 불가
 
 - 협력자를 추가해야 팀과 함께 작업 가능.<br>Github 해당 Repo의 Setting에서 팀원 초청.<br>Collaborators 메뉴에서 팀원 검색하여 추가.
 
