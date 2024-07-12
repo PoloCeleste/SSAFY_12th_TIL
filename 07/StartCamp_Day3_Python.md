@@ -69,3 +69,7 @@ Today I Learned<br>
 그날 그날 배운 내용을 Markdown으로 문서화하여 정리
 
 - [문서화 연습의 중요성](https://d2.naver.com/news/3435170)
+
+### README.md
+
+프로젝트에 대한 설명, 사용방법, 문서화된 정보 등을 알려주는 문서
