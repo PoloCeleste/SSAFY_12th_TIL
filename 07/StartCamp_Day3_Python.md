@@ -24,9 +24,10 @@
 
 - `git push <Nickname> <branch_Name>` ; 연결된 원격 저장소에서 로컬 저장소로 가져오기
 
-  - `error:failed to push some refs to` 에러 발생 시 pull 작업 후 다시 push
-    <br>-> 원격 저장소에 로컬에 없는 파일이 있을 때 push 할 경우 발생
+  - `error:failed to push some refs to` 에러 발생 시 pull 작업 후 다시 push 또는 강제 덮어쓰기
+    <br>-> 원격 저장소에 로컬에 없는 파일이 있을 때(Local의 COMMIT history가 Repo의 COMMIT history보다 뒤쳐져 있을 때) push 할 경우 발생
   - COMMIT 이력이 없으면 push 불가
+  - `git push -f <Nickname> <branch_Name>` ; 원격 저장소의 내용을 로컬 저장소에 강제로 덮어쓰기
 
 - 협력자를 추가해야 팀과 함께 작업 가능.<br>Github 해당 Repo의 Setting에서 팀원 초청.<br>Collaborators 메뉴에서 팀원 검색하여 추가.
 
@@ -57,12 +58,32 @@ Git에서 특정 파일이나 Directory를 추적하지 않도록 사용하는 �
 
 # Git revert & reset
 
-## revert
+### revert
 
 - 재설정
 - 단일 COMMIT을 실행 취소 하는 것
 - 프로젝트 기록에서 COMMIT을 없었던 일로 처리 후 그 결과를 새로운 COMMIT으로 추가함
 - 기록에서 COMMIT이 사라지지는 않음
+
+[Git revert 설명](https://www.atlassian.com/git/tutorials/undoing-changes/git-revert)
+
+- `git revert <COMMIT_ID>` ; Vim Editor로 편집하여 저장 후 종료
+
+  - `git revert <COMMIT_ID 1> <COMMIT_ID 2> <COMMIT_ID 3>` ; 한번에 취소
+  - `git revert <COMMIT_ID> .. <COMMIT_ID>` : 범위 지정
+  - `git revert --no-edit <COMMIT_ID>` : 에디터 열지 않음
+  - `git revert --no-commit <COMMIT_ID>` : revert 결과 자동 COMMIT X
+
+- 변경사항을 안전하게 실행 취소할 수 있도록 도와주는 순방향 실행취소 작업
+
+### reset
+
+- 되돌리기
+- 특정 commit으로 되돌아 갔을 때, 되돌아간 COMMIT 이후의 COMMIT은 모두 삭제
+
+  - `--soft` ; 삭제된 COMMIT의 내용을 Staging Area에 남김
+  - `--mixed` ; 삭제된 COMMIT의 내용을 Working Directory에 남김
+  - `--head` ; 삭제된 COMMIT의 내용을 남기지 않음
 
 <br><br>
 
