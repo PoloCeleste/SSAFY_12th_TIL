@@ -96,7 +96,7 @@
 
 ### git add
 
-- `git add <name>, ...` ; 변경사항이 있는 파일/폴더를 Staging Area에 추가
+- `git add` ; 변경사항이 있는 파일/폴더를 Staging Area에 추가
   - `git add .` ; 현재 Directory의 모든 변경내용 추가
   - `git add a.txt` ; a.txt파일 추가
   - `git add a.txt, /dir` ; a.txt파일과 dir폴더 추가
