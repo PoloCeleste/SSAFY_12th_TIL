@@ -57,6 +57,13 @@ Git에서 특정 파일이나 Directory를 추적하지 않도록 사용하는 �
 
 # Git revert & reset
 
+## revert
+
+- 재설정
+- 단일 COMMIT을 실행 취소 하는 것
+- 프로젝트 기록에서 COMMIT을 없었던 일로 처리 후 그 결과를 새로운 COMMIT으로 추가함
+- 기록에서 COMMIT이 사라지지는 않음
+
 <br><br>
 
 # Git Undoing
