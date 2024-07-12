@@ -69,9 +69,9 @@ Git에서 특정 파일이나 Directory를 추적하지 않도록 사용하는 �
 
 - `git revert <COMMIT_ID>` ; Vim Editor로 편집하여 저장 후 종료
 
-  - `git revert <COMMIT_ID 1> <COMMIT_ID 2> <COMMIT_ID 3>` ; 한번에 취소
-  - `git revert <COMMIT_ID> .. <COMMIT_ID>` : 범위 지정
-  - `git revert --no-edit <COMMIT_ID>` : 에디터 열지 않음
+  - `git revert <COMMIT_ID 1> <COMMIT_ID 2> <COMMIT_ID 3>` ; COMMIT 여러 개 한번에 취소
+  - `git revert <COMMIT_ID> .. <COMMIT_ID>` : 범위 지정하여 revert
+  - `git revert --no-edit <COMMIT_ID>` : revert시 에디터 열지 않음
   - `git revert --no-commit <COMMIT_ID>` : revert 결과 자동 COMMIT X
 
 - 변경사항을 안전하게 실행 취소할 수 있도록 도와주는 순방향 실행취소 작업
@@ -85,12 +85,12 @@ Git에서 특정 파일이나 Directory를 추적하지 않도록 사용하는 �
   - `--mixed` ; 삭제된 COMMIT의 내용을 Working Directory에 남김
   - `--head` ; 삭제된 COMMIT의 내용을 남기지 않음
 
-<br><br>
-
 ### git leflog
 
 - HEAD가 가리켰던 모든 COMMIT 기록을 보여줌
 - `--hard` 옵션을 통해 지워진 기록도 볼 수 있음
+
+<br><br>
 
 # Git Undoing
 
@@ -100,6 +100,11 @@ Modified 상태의 파일 되돌리기
 <br>-> Working Directory에서 파일을 수정한 뒤 파일의 수정 사항을 취소하고 원래 모습대로 되돌리는 작업
 
 - `--staged` 옵션 사용시 Staging Area에 올라간 파일을 Working Directory에 되돌릴 수 있음 (Git에 COMMIT 된 경우)
+
+#### Unstage 명령어 간 차이
+
+COMMIT 존재 O : `git restore --staged`<br>
+COMMIT 존재 X : `git rm --cashed`
 
 <br><br>
 
