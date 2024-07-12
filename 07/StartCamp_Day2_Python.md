@@ -120,7 +120,7 @@
 
 ### git rm
 
-- `git rm --cashed <name>` ; Staging Area에서 COMMIT 대기 중인 `name` 삭제
+- `git rm --cached <name>` ; Staging Area에서 COMMIT 대기 중인 `name` 삭제
 
 ### git log
 
