@@ -16,3 +16,4 @@ Today I Learned...
 
 - [Python_BasicSyntax\_(01)](/07/07.15_Python_BasicSyntax01.md)
 - [Python_BasicSyntax\_(02)](/07/07.16_Python_BasicSyntax02.md)
+- [Python_Functions\_(01)](/07/07.17_Python_Functions01.md)
