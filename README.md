@@ -18,3 +18,4 @@ Today I Learned...
 - [Python_BasicSyntax\_(02)](/07/07.16_Python_BasicSyntax02.md)
 - [Python_Functions](/07/07.17_Python_Functions.md)
 - [Python_Modules&Control_of_Flow](/07/07.18_Python_Modules&Control_of_Flow.md)
+- [PJT_01](/07/07.19_PJT_01.md)
