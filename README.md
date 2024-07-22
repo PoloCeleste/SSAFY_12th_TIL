@@ -19,3 +19,7 @@ Today I Learned...
 - [Python_Functions](/07/07.17_Python_Functions.md)
 - [Python_Modules&Control_of_Flow](/07/07.18_Python_Modules&Control_of_Flow.md)
 - [PJT_01](/07/07.19_PJT_01.md)
+
+### 2nd Week
+
+- [Python_Data_Structure\_(01)](/07/07.22_Python_Data_Structure01.md)
