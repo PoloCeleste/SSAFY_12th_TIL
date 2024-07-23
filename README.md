@@ -23,3 +23,4 @@ Today I Learned...
 ### 2nd Week
 
 - [Python_Data_Structure\_(01)](/07/07.22_Python_Data_Structure01.md)
+- [Python_Data_Structure\_(02)](/07/07.23_Python_Data_Structure02.md)
