@@ -24,3 +24,4 @@ Today I Learned...
 
 - [Python_Data_Structure\_(01)](/07/07.22_Python_Data_Structure01.md)
 - [Python_Data_Structure\_(02)](/07/07.23_Python_Data_Structure02.md)
+- [Python_OOP\_(01)](/07/07.24_Python_OOP01.md)
