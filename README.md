@@ -33,4 +33,6 @@ Today I Learned...
 
 ### Algorithm
 
+- [Python_List\_(01)](/08/Algorithm/07.29_Python_List1.md)
+
 #### 1st Week
