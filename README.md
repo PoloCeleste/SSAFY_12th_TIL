@@ -35,6 +35,7 @@ Today I Learned...
 
 - [Python_List1\_(01)](/08/Algorithm/07.29_Python_List1_1.md)
 - [Python_List1\_(02)](/08/Algorithm/07.30_Python_List1_2.md)
-- [Python_List2\_(01)](/08/Algorithm/07.30_Python_List2_1.md)
+- [Python_List2\_(01)](/08/Algorithm/07.31_Python_List2_1.md)
+- [Python_List2\_(02)](/08/Algorithm/08.01_Python_List2_2.md)
 
 #### 1st Week
