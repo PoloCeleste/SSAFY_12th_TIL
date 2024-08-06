@@ -33,12 +33,16 @@ Today I Learned...
 
 ### Algorithm
 
+#### 1st Week
+
 - [Python_List1\_(01)](/08/Algorithm/07.29_Python_List1_1.md)
 - [Python_List1\_(02)](/08/Algorithm/07.30_Python_List1_2.md)
 - [Python_List2\_(01)](/08/Algorithm/07.31_Python_List2_1.md)
 - [Python_List2\_(02)](/08/Algorithm/08.01_Python_List2_2.md)
 - [Python_String\_(01)](/08/Algorithm/08.02_Python_String_1.md)
+
+#### 2nd Week
+
 - [Python_String\_(02)](/08/Algorithm/08.05_Python_String_2.md)
 - [Python_Stack\_(01)](/08/Algorithm/08.06_Python_Stack_1.md)
-
-#### 1st Week
+- [Python_Stack\_(02)](/08/Algorithm/08.07_Python_Stack_2.md)
