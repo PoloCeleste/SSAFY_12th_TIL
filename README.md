@@ -48,3 +48,7 @@ Today I Learned...
 - [Python_Stack1\_(02)](/08/Algorithm/08.07_Python_Stack1_2.md)
 - [Python_Stack2\_(01)](/08/Algorithm/08.08_Python_Stack2_1.md)
 - [Python_Stack2\_(02)](/08/Algorithm/08.09_Python_Stack2_2.md)
+
+#### 3rd Week
+
+-[Python_Queue\_(01)](/08/Algorithm/08.13_Python_Queue_1.md)
