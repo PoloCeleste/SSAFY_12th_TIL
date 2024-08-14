@@ -51,4 +51,5 @@ Today I Learned...
 
 #### 3rd Week
 
--[Python_Queue\_(01)](/08/Algorithm/08.13_Python_Queue_1.md)
+- [Python_Queue\_(01)](/08/Algorithm/08.13_Python_Queue_1.md)
+- [Python_Queue\_(02)](/08/Algorithm/08.14_Python_Queue_2.md)
