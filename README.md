@@ -54,7 +54,7 @@ Today I Learned...
 - [Python_Queue\_(01)](/08/Algorithm/08.13_Python_Queue_1.md)
 - [Python_Queue\_(02)](/08/Algorithm/08.14_Python_Queue_2.md)
 - Problem Solving1
-  - [6485_Samsung's_Bus_Track](/08/Algorithm/08.16_Python_Problem_Solving1/6485_Samsung_Bus_Track)
-  - [9490_Ballon_Pang](/08/Algorithm/08.16_Python_Problem_Solving1/9490_Ballon_Pang)
-  - [4615_Othello](/08/Algorithm/08.16_Python_Problem_Solving1/4615_Othello)
-  - [11315_Omok](/08/Algorithm/08.16_Python_Problem_Solving1/11315_Omok)
+  - [6485_Samsung's_Bus_Track](/08/Algorithm/08.16_Python_Problem_Solving1/6485_Samsung_Bus_Track.py)
+  - [9490_Ballon_Pang](/08/Algorithm/08.16_Python_Problem_Solving1/9490_Ballon_Pang.py)
+  - [4615_Othello](/08/Algorithm/08.16_Python_Problem_Solving1/4615_Othello.py)
+  - [11315_Omok](/08/Algorithm/08.16_Python_Problem_Solving1/11315_Omok.py)
