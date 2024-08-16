@@ -39,7 +39,6 @@ for t in range(1, int(input())+1):
     ans = f(N)
     print(f'#{t} {ans}')
 
-addd
 '''
 [입력]
 4
