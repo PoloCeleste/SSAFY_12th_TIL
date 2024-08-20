@@ -62,3 +62,4 @@ Today I Learned...
 #### 4th Week
 
 - [08.19_Web_HTML_CSS_Day1](/08/web/08.19_Web_HTML_CSS_Day1.md)
+- [08.20_Web_HTML_CSS_Day2](/08/web/08.20_Web_HTML_CSS_Day2.md)
