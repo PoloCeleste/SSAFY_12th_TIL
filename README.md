@@ -65,3 +65,11 @@ Today I Learned...
 - [08.20_Web_HTML_CSS_Day2](/08/web/08.20_Web_HTML_CSS_Day2.md)
 - [08.21_Web_HTML_CSS_Day3](/08/web/08.21_Web_HTML_CSS_Day3.md)
 - [08.22_Web_HTML_CSS_Day4](/08/web/08.22_Web_HTML_CSS_Day4.md)
+
+#### 5th Week
+
+- Problem Solving2
+  - [1220_Magnetic](/08/Algorithm/08.26_Python_Problem_Solving2/1220_Magnetic.py)
+  - [3499_Perfect_Shuffle](/08/Algorithm/08.26_Python_Problem_Solving2/3499_Perfect_Shuffle.py)
+  - [10580_Telephone_Pole](/08/Algorithm/08.26_Python_Problem_Solving2/10580_Telephone_Pole.py)
+  - [20739_Ancient_Ruins_2](/08/Algorithm/08.26_Python_Problem_Solving2/20739_Ancient_Ruins_2.py)
