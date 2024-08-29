@@ -75,3 +75,4 @@ Today I Learned...
   - [20739_Ancient_Ruins_2](/08/Algorithm/08.26_Python_Problem_Solving2/20739_Ancient_Ruins_2.py)
 - [Python_Tree\_(1)](/08/Algorithm/08.27_Python_Tree_1.md)
 - [Python_Tree\_(2)](/08/Algorithm/08.28_Python_Tree_2.md)
+- [Python_Algorithm_Start\_(1)](/08/Algorithm/08.29_Python_Start_1.md)
