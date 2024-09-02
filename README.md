@@ -79,3 +79,5 @@ Today I Learned...
 - [Python_Algorithm_Start\_(2)](/08/Algorithm/08.30_Python_Start_2.md)
 
 ## September
+
+- [Python_Algorithm_Start\_(2)](/09/Algorithm/09.02_Python_Full_Search_1.md)
