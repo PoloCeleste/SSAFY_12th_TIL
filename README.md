@@ -82,3 +82,4 @@ Today I Learned...
 
 - [Python_Algorithm_Full_Search\_(1)](/09/Algorithm/09.02_Python_Full_Search_1.md)
 - [Python_Algorithm_Greedy_Algorithm\_(1)](/09/Algorithm/09.03_Python_Greedy_Algorithm_1.md)
+- [Python_Algorithm_Divisional_Conquest\_(1)](/09/Algorithm/09.04_Python_Divisional_Conquest_1.md)
