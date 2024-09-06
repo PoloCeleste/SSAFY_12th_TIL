@@ -88,4 +88,4 @@ Today I Learned...
   - [1861_Square_Room](/09/Algorithm/09.05_Python_Problem_Solving3/1861_Square_Room.py)
   - [1486_Highest_shelf](/09/Algorithm/09.05_Python_Problem_Solving3/1486_Highest_shelf.py)
   - [2819_Join_Num_on_Grid](/09/Algorithm/09.05_Python_Problem_Solving3/2819_Join_Num_on_Grid.py)
-  - [1952_Swimming_Pool](/09/Algorithm/09.05_Python_Problem_Solving3/1952_Swimming_Pool.py)
+  - [1952_Swimming_Pool](/09/Algorithm/09.05_Python_Problem_Solving3/1952_Swimming_Pool.ipynb)
