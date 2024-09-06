@@ -19,7 +19,32 @@
 각 테스트 케이스마다 ‘#x ’(x는 테스트케이스 번호를 의미하며 1부터 시작한다)를 출력하고, 
 격자판을 이동하며 만들 수 있는 서로 다른 일곱 자리 수들의 개수를 출력한다.
 """
+dy=[-1,-1,0,0]
+dx=[0,0,-1,1]
+# 시작점 : 각 좌표
+# 끝점 : 문자열의 길이가 7이면 종료
+def dfs(y,x,path):
+    if len(path)==7:
+        result.add(path)  # 현재까지의 경로를 결과 set에 저장
+        return
+    
+    for i in range(4):
+        ny=y+dy[i]
+        nx=x+dx[i]
+        if nx<0 or nx>=4 or ny<0 or ny>=4:continue
+        dfs(ny,nx,path+arr[ny][nx])
 
+for t in range(1, int(input())+1):
+    # 문자로 쓰면 합치기 더 쉽기 때문에, 각 칸을 문자로 입력받음
+    arr=[input().split() for _ in range(4)]
+    # 중복을 제거하기 위해
+    result=set()
+    
+    # 모든 지점을 확인
+    for i in range(4):
+        for j in range(4):
+            dfs(i,j,arr[i][j])  # 필요한 정보 ; 좌표, 누적된 문자열
+    print(f'#{t} {len(result)}')
 '''
 [입력]
 
