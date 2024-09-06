@@ -35,6 +35,31 @@ S는 두 번째 줄에서 주어지는 점원들 키의 합이다.
 높이가 16인 탑은 만들 수 없으므로 높이가 17인 탑이 문제에서 구하려는 
 탑의 높이이다. 따라서 17 – 16 = 1이 답이 된다.
 """
+# 시작점: 0번 점원 / 탑의 높이는 0부터 시작
+# 끝점(기저조건): N명의 점원을 탑에 쌓을 지 말지 고려를 완료
+
+def recur(cnt, sum_height):
+    global ans
+    # 기저 조건 가지치기. 이미 탑의 높이가 B 이상이면 더이상 확인 필요 X
+    if sum_height >= B:
+        ans = min(ans, sum_height)
+        return
+    # 기저 조건. 모든 점원을 탑을 쌓는데 고려했는가?
+    if cnt == N:
+        return
+    # cnt번 점원을 탑에 쌓는다
+    recur(cnt+1, sum_height+heights[cnt])
+    # cnt번 점원을 탑에 안쌓는다
+    recur(cnt+1, sum_height)
+
+for t in range(1, int(input())+1):
+    N, B= map(int, input().split())
+    heights = list(map(int, input().split()))
+    ans = 1e9 # 점원들을 쌓은 탑 중에 B에 가장 가까운 높이를 저장
+    recur(0,0)
+    print(f'#{t} {ans-B}')
+
+
 '''
 [입력]
 
