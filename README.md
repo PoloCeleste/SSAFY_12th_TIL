@@ -84,3 +84,8 @@ Today I Learned...
 - [Python_Algorithm_Greedy_Algorithm\_(1)](/09/Algorithm/09.03_Python_Greedy_Algorithm_1.md)
 - [Python_Algorithm_Divisional_Conquest\_(1)](/09/Algorithm/09.04_Python_Divisional_Conquest_1.md)
 - [Python_Algorithm_Backtraking\_(1)](/09/Algorithm/09.05_Python_Backtraking.md)
+- Python_Problem_Solving_3
+  - [1861_Square_Room](/09/Algorithm/09.05_Python_Problem_Solving3/1861_Square_Room.py)
+  - [1486_Highest_shelf](/09/Algorithm/09.05_Python_Problem_Solving3/1486_Highest_shelf.py)
+  - [2819_Join_Num_on_Grid](/09/Algorithm/09.05_Python_Problem_Solving3/2819_Join_Num_on_Grid.py)
+  - [1952_Swimming_Pool](/09/Algorithm/09.05_Python_Problem_Solving3/1952_Swimming_Pool.py)
