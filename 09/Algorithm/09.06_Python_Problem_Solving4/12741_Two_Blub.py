@@ -10,8 +10,13 @@
 [출력]
 각 테스트 케이스마다, 두 전구가 동시에 켜져 있던 시간이 몇 초인지를 한 줄에 하나씩 출력한다.
 """
-
-
+r=[]
+for t in range(int(input())):
+    A,B,C,D=map(int,input().split())
+    r.append(min(B,D)-max(A,C))
+for i,re in enumerate(r):
+    if re<=0:print(f'#{i+1} 0')
+    else: print(f'#{i+1} {re}')
 
 '''
 [입력]
