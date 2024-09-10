@@ -101,3 +101,4 @@ Today I Learned...
   - [12741_Two_Blub](/09/Algorithm/09.06_Python_Problem_Solving4/12741_Two_Blub.py)
   - [5656_Break_Brick](/09/Algorithm/09.06_Python_Problem_Solving4/5656_Break_Brick.py)
   - [4008_Make_Num](/09/Algorithm/09.06_Python_Problem_Solving4/4008_Make_Num.py)
+- [Python_Algorithm_Graph\_(1)](/09/Algorithm/09.10_Python_Graph_1.md)
