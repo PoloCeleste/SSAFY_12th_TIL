@@ -103,3 +103,4 @@ Today I Learned...
   - [4008_Make_Num](/09/Algorithm/09.06_Python_Problem_Solving4/4008_Make_Num.py)
 - [Python_Algorithm_Graph\_(1)](/09/Algorithm/09.10_Python_Graph_1.md)
 - [Python_Algorithm_Graph\_(2)](/09/Algorithm/09.11_Python_Graph_2.md)
+- [Python_Computational_Thinking](/09/Algorithm/09.12_Python_Computational_Thinking.md)
