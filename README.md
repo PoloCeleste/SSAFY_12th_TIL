@@ -104,3 +104,7 @@ Today I Learned...
 - [Python_Algorithm_Graph\_(1)](/09/Algorithm/09.10_Python_Graph_1.md)
 - [Python_Algorithm_Graph\_(2)](/09/Algorithm/09.11_Python_Graph_2.md)
 - [Python_Computational_Thinking](/09/Algorithm/09.12_Python_Computational_Thinking.md)
+
+### Django
+
+- [Intro & Design Pattern](/09/Django/09.13_Django_Intro&DesignPattern.md)
