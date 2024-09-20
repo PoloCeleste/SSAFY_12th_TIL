@@ -109,3 +109,4 @@ Today I Learned...
 
 - [Intro & Design Pattern](/09/Django/09.13_Django_Intro&DesignPattern.md)
 - [Template&URLs](/09/Django/09.14_Django_Template&URLs.md)
+- [Model](/09/Django/09.15_Django_Model.md)
