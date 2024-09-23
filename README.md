@@ -111,3 +111,4 @@ Today I Learned...
 - [Template&URLs](/09/Django/09.19_Django_Template&URLs.md)
 - [Model](/09/Django/09.20_Django_Model.md)
 - [ORM](/09/Django/09.23_Django_ORM.md)
+- [ORM with View](/09/Django/09.24_Django_ORM_with_View.md)
