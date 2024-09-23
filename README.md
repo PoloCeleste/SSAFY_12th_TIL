@@ -108,5 +108,6 @@ Today I Learned...
 ### Django
 
 - [Intro & Design Pattern](/09/Django/09.13_Django_Intro&DesignPattern.md)
-- [Template&URLs](/09/Django/09.14_Django_Template&URLs.md)
-- [Model](/09/Django/09.15_Django_Model.md)
+- [Template&URLs](/09/Django/09.19_Django_Template&URLs.md)
+- [Model](/09/Django/09.20_Django_Model.md)
+- [ORM](/09/Django/09.23_Django_ORM.md)
