@@ -112,3 +112,4 @@ Today I Learned...
 - [Model](/09/Django/09.20_Django_Model.md)
 - [ORM](/09/Django/09.23_Django_ORM.md)
 - [ORM with View](/09/Django/09.24_Django_ORM_with_View.md)
+- [Form](/09/Django/09.25_Django_Form.md)
