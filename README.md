@@ -113,3 +113,4 @@ Today I Learned...
 - [ORM](/09/Django/09.23_Django_ORM.md)
 - [ORM with View](/09/Django/09.24_Django_ORM_with_View.md)
 - [Form](/09/Django/09.25_Django_Form.md)
+- [Static Files](/09/Django/09.26_Django_Static_Files.md)
