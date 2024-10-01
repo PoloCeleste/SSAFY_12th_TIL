@@ -123,4 +123,12 @@ Today I Learned...
 
 #### 5th Week
 
-- [Authentication System\_(1)](/09/Django/09.30_Django_Authenticationsystem1.md)
+- [Authentication System\_(1)](/09/Django/09.30_Django_Authentication_System_01.md)
+
+## October
+
+### Django
+
+#### 1st Week
+
+- [Authentication System\_(2)](/10/Django/10.02_Django_Authentication_System_02.md)
