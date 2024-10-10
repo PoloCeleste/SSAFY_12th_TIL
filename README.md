@@ -132,3 +132,7 @@ Today I Learned...
 #### 1st Week
 
 - [Authentication System\_(2)](/10/Django/10.02_Django_Authentication_System_02.md)
+
+#### 2nd Week
+
+- [DB_SQL](/10/DB/10.10_DB_SQL.md)
