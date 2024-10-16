@@ -143,3 +143,5 @@ Today I Learned...
 
 - [DB_Many to many Relationships_01](/10/DB/10.14_DB_Many_to_many_relationships_01.md)
 - [DB_Many to many Relationships_02](/10/DB/10.15_DB_Many_to_many_relationships_02.md)
+- [Django DRF_01](/10/Django/10.16_Django_DRF_01.md)
+- [Django DRF_02](/10/Django/10.17_Django_DRF_02.md)
