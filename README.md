@@ -160,3 +160,5 @@ Today I Learned...
 #### 5th Week
 
 - [JS_Controlling_Event](/10/JS/10.28_JS_Controlling_Event.md)
+
+- [JS_Asynchronous_JavaScript](/10/JS/10.29_JS_Asynchronous_JavaScript.md)
