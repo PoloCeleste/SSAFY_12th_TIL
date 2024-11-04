@@ -174,3 +174,4 @@ Today I Learned...
 #### 1st Week
 
 - [Vue_Basic_Syntax_01](11/Vue/11.04_Vue_Basic_Syntax_01.md)
+- [Vue_Basic_Syntax_02](11/Vue/11.05_Vue_Basic_Syntax_02.md)
