@@ -166,3 +166,11 @@ Today I Learned...
 ### Vue
 
 - [Vue_Introduction_of_Vue](/10/Vue/10.31_Vue_Introduction_of_Vue.md)
+
+## November
+
+### Vue
+
+#### 1st Week
+
+- [Vue_Basic_Syntax_01](11/Vue/11.04_Vue_Basic_Syntax_01.md)
