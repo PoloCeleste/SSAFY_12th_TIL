@@ -176,3 +176,4 @@ Today I Learned...
 - [Vue_Basic_Syntax_01](11/Vue/11.04_Vue_Basic_Syntax_01.md)
 - [Vue_Basic_Syntax_02](11/Vue/11.05_Vue_Basic_Syntax_02.md)
 - [Vue_Single-File_Components](11/Vue/11.06_Vue_Single-File_Components.md)
+- [Vue_Component_State_Flow](11/Vue/11.07_Vue_Component_State_Flow.md)
