@@ -180,4 +180,5 @@ Today I Learned...
 
 #### 2nd Week
 
-- [Vue_Component_State_Flow](11/Vue/11.07_Vue_Component_State_Flow.md)
+- [Vue_Router](11/Vue/11.11_Vue_Router.md)
+- [Vue_State_Management](11/Vue/11.12_Vue_State_Management.md)
